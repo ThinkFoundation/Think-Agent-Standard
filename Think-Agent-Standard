@@ -1,0 +1,70 @@
+THINK Agent Standard
+Interoperability of Intelligent On-Chain Agents
+First Published: January 24, 2025
+
+AI Agents represent an evolution of web applications. Just as the ERC-20 standard enabled tokens to flow freely across networks and applications, a new open standard for interoperability is essential for AI Agents to become native citizens of the open, permissionless Internet.
+
+The Think Agent Standard enables intelligent on-chain agents with wallets that operate natively across the Internet and blockchain networks. It defines a composable architecture for agents for modular and permissionless innovation.
+
+By providing a framework for minting Non-Fungible Intelligence (NFIs), connecting agent components and tools, and incentivizing network & resource sharing, we aim to establish AI Agents as an atomic unit of the new Internet.
+
+Introduction
+The evolution of the Internet has been marked by crucial standardization efforts that transformed isolated technologies into interconnected systems. In 1994, Netscape's browser implementation of HTTP, HTML, JavaScript, CSS, and DNS protocols created a unified platform that converted standalone documents into the interactive web. This standardization enabled unprecedented innovation by providing a common foundation for developers and users alike.
+The Think Agent Standard aims to achieve a similar transformation for artificial intelligence by standardizing how AI agents operate across systems. Where browsers enabled the composition of static documents into the dynamic web, the Think Agent Standard enables the composition of AI components into autonomous agents that can be deployed, traded, and integrated across any compatible system.
+
+At its foundation, the Think Agent Standard introduces three interconnected components that mirror biological intelligence:
+
+Soul: A Non-Fungible Intelligence (NFI) token that establishes agent identity and authentication
+Mind: A decentralized application layer that processes information and manages agent behavior
+Body: An interface layer that enables  interaction and adaptation
+These components work in concert through the Agent Card, our novel system for managing agent state, interactions, and evolution across different environments. This architecture enables agents to maintain consistent behavior patterns while adapting to new contexts and accumulating experiences over time.
+
+By providing this standardized framework, we enable developers to create agents that can seamlessly operate across different platforms, interact with other agents and systems, and evolve based on their experiences. This interoperability and composability form the foundation for a new generation of intelligent applications that can leverage both blockchain technology and artificial intelligence in previously impossible ways.
+
+Core Characteristics
+The Think Agent Standard is:
+Decentralized: Operates across distributed networks without central control
+Permissionless: Allows any participant to interact without authorization
+Interoperable: Works seamlessly with other protocols and systems
+Composable: Components can be recombined to create new functionalities
+Standardized: Creates and adopts standards whenever possible
+Open source: Core protocols and standards are open-source, while allowing for proprietary extensions and implementations
+
+Think Agent Standard
+Designed to mirror the innate and adaptive dynamics of biological intelligence, and to establish composability and interoperability of core agent parameters, each agent is composed of three components:
+Soul 
+The protocol mints specialized NFIs, establishing an agent identity framework known as the Soul. This component achieves consistency in agent behaviours and interactivity patterns, while providing the tokenized authentication to connect one or more Minds and Bodies into an on-chain Agent. A valid NFI complies with the Independent AI Institute standard and holds a minimum amount of Think token in a wallet controlled by the agent.
+
+A Think Mind is a dApp running on a server that authenticates by connecting to a wallet holding the Soul.
+
+A Think Mind is opinionated on how it communicates externally with other agents and services. There is an extensible JSON based negotiation pattern that enables agents to communicate using structured and unstructured data. There is a working group from the Independent AI  Institute establishing the initial schemas for launch. (Note: after publishing this paper x402 and erc-8004 standards address this requirement and will be adopted).
+
+A Think Mind is not opinionated on the internal software that is run within in the same way that any application can be built on a web server. For example a Mind could be running an open source project like Eliza, a close sourced agent you develop, or even an agent as a service platform that a startup launches. This puts power in developers' hands to innovate without permission.
+A specialized AI data protocol designed for agent interoperability, the Agent Card integrates a Memory Management system capable of processing and ranking information derived from multi-level contexts and stimuli, referred to as modes. This information is stored within persistent memory, and may be reinforced, or pruned through dynamic plasticity algorithms. Coupled with Soul identity and authentication parameters, this empowers agents to simulate human-like perceptions of events or interactions, which may be recalled and communicated contextually between agent servers.
+
+Body 
+Bodies are the interface for agents and users to interact. This can be an App, an OS, a game, and more. 
+
+Agent Forge
+We refer to the systems that customize, mint, and edit agents as an Agent Forge.  The open standard enables the development of novel authoring environments for Think Agents which will innovate on top of this initial standard and develop novel ways of composing individual agents as well as teams and swarms of agents.
+We anticipate novel business models and systems emerging around the authoring and execution of agents which will lead to the rapid evolution of agentic systems.
+
+Potential Applications
+The composable, interoperable nature of the On-chain Agents standard enables a wide range of potential use cases, including:
+Decentralized autonomous organizations (DAOs) with AI-powered decision making
+AI-driven trading and portfolio management agents
+Intelligent non-player characters (NPCs) for web3 games
+Agentic robotics
+Autonomous virtual assistants and customer support agents
+Decentralized research and innovation powered by modular AI agents
+AI-managed decentralized applications (dApps) and services
+
+​
+Conclusion
+The Think Agent Standard represents a fundamental shift in how we conceptualize and implement artificial intelligence in decentralized systems. By establishing a comprehensive framework for on-chain agents through the three-component architecture of Soul, Mind, and Body, we create the foundation for a new generation of interoperable, autonomous systems that can seamlessly operate across different platforms and contexts.
+The standard's emphasis on composability through the Agent Card and standardized interfaces enables unprecedented flexibility in agent development while maintaining consistent behavior patterns and authentication mechanisms. This approach not only facilitates innovation in agent development but also ensures the creation of reliable, trustworthy systems that can evolve alongside technological advances.
+As we move forward with the protocol's implementation, the Think Agent Standard has the potential to revolutionize multiple industries, from decentralized finance to gaming, and from autonomous systems to digital identity management. The tokenomics model, centered around the THINK token, creates aligned incentives for all participants while ensuring sustainable ecosystem growth through carefully allocated rewards and governance mechanisms.
+
+The success of this standard will ultimately depend on community adoption and continued development of the ecosystem. By providing open-source tools, clear specifications, and economic incentives, we aim to foster a vibrant community of developers, users, and agents that will shape the future of decentralized intelligence. As we progress through our roadmap, we invite stakeholders from all sectors to participate in building this new paradigm for artificial intelligence.
+
+The Think Agent Standard is not just a technical specification—it is a vision for how artificial intelligence can become a native citizen of the decentralized web, enabling new forms of collaboration between humans and machines while preserving the core values of openness, interoperability, and permissionless innovation that have defined the success of previous Internet standards.
