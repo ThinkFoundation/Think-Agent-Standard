@@ -1,6 +1,7 @@
 # Think Agent Standard
 
 > Interoperability of Intelligent On-Chain Agents
+> Originally published January 2025, this led to the development of ThinkOS
 
 ---
 
@@ -26,7 +27,7 @@ The Think Agent Standard aims to achieve a similar transformation for artificial
 
 Each agent is composed of three components, designed to mirror the innate and adaptive dynamics of biological intelligence:
 
-### 🔮 Soul
+### Soul
 
 A **Non-Fungible Intelligence (NFI)** token that establishes agent identity and authentication. The Soul achieves consistency in agent behaviors and interactivity patterns while providing the tokenized authentication to connect one or more Minds and Bodies into an on-chain Agent.
 
@@ -34,7 +35,7 @@ A **Non-Fungible Intelligence (NFI)** token that establishes agent identity and 
 - Holds a minimum amount of THINK token in a wallet controlled by the agent
 - Provides persistent identity across platforms and contexts
 
-### 🧠 Mind
+### Mind
 
 A **decentralized application layer** that processes information and manages agent behavior. A Think Mind is a dApp running on a server that authenticates by connecting to a wallet holding the Soul.
 
@@ -43,7 +44,7 @@ A **decentralized application layer** that processes information and manages age
 - Unopinionated on internal software — run Eliza, a custom agent, or any agent-as-a-service platform
 - Puts power in developers' hands to innovate without permission
 
-### 🌐 Body
+### Body
 
 The **interface layer** that enables interaction and adaptation. Bodies are how agents and users interact — this can be an App, an OS, a game, and more.
 
